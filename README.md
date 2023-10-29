@@ -1,4 +1,4 @@
-## Alber Blanc test task
+## AB test task
 
 The task was divided into two parts:
 1. `ws.py` uses for collecting data from 5 webosckets using `asynio`. It stores data in `pickle_data.pkl` file;
